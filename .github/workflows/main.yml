@@ -1,4 +1,4 @@
-name: efda
+name: RDP
 
 on:
   workflow_dispatch:
